@@ -6,6 +6,9 @@ monitoring:
   version: 41.7.0
 certManager:
   version: 1.10.0
+  cfButtahtoast:
+    email: info@buttahtoast.ch
+    apiToken: 
 group:
 - base
 - kind
