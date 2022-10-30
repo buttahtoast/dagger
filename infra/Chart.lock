@@ -1,0 +1,6 @@
+dependencies:
+- name: helmize
+  repository: https://helmize.dev/
+  version: 0.1.1
+digest: sha256:bef6cc4449e328c88944191d11fd589632cf07df6e910735f515dc3e5c979e21
+generated: "2022-10-30T21:10:54.088444+01:00"

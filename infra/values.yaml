@@ -1,0 +1,12 @@
+lb:
+  version: 0.13.7
+ingress:
+  version: 4.3.0
+monitoring:
+  version: 41.7.0
+certManager:
+  version: 1.10.0
+group:
+- base
+- kind
+location: "glk"

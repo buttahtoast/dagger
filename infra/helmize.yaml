@@ -1,0 +1,12 @@
+inventory_directory: "structure/"
+conditions:
+  - name: "group"
+    key: "group"
+    default: 
+     - base
+    key_type: [ "slice" ]
+    #path: "./group"
+  - name: "location"
+    key: "location"
+    default: "glk"
+    key_type: [ "string" ]
